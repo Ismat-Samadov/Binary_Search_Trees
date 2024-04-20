@@ -8,7 +8,6 @@ This repository contains implementations of binary search trees (BST) in both Ja
 2. [Ruby Implementation](#ruby-implementation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## JavaScript Implementation
 
